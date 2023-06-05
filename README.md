@@ -66,7 +66,7 @@ See the [**Kdocs**]() for more advanced documentation.
 
 **Setting tutorial Video**
 <br/><br/>
-[setting](http://youtube.com)
+[![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/setting2.PNG)](https://youtu.be/wccWIQ_lX6k)
 <br/><br/>
 
 **Tutorial Videos**
