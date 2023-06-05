@@ -1,7 +1,7 @@
-# KFaceRecognition
 
+![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/Kfacerecog_logo.PNG.png)]
 
-:zap: A powerful & easy to use Face Recognition library for Android  :zap:</br></br>
+### :zap: A powerful & easy to use Face Recognition library for Android  :zap:</br></br>
  :exclamation: Get your unique facial features as vectors on Android!</br></br>
  :exclamation: Recognize returning users by saving the vetor value in the DB!</br></br>
  :exclamation: Save money with serverless module!</br></br>
