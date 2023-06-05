@@ -5,9 +5,7 @@
 
 
 ## Table of Contents
-1. [Quick Start](#quick-start)
-    1. [Gradle](#gradle-setup)
-    1. [Maven](#maven-setup)
+1. [Getting Started](#getting-started)
 1. [Documentation](#documentation)
 1. [Examples](#examples)
 1. [Tutorial](#tutorial)
@@ -15,11 +13,7 @@
 3. [Creators](#creators)
 
 
-### Gradle Setup
-
-
-### Maven Setup
-
+### Getting Started
 
 <br/>
 
