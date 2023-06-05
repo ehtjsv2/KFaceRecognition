@@ -1,7 +1,11 @@
 # KFaceRecognition
 
 
-:zap: A powerful & easy to use Face Recognition library for Android  :zap:
+:zap: A powerful & easy to use Face Recognition library for Android  :zap:</br></br>
+ :exclamation: Get your unique facial features as vectors on Android!</br></br>
+ :exclamation: Recognize returning users by saving the vetor value in the DB!</br></br>
+ :exclamation: Save money with serverless module!</br></br>
+ 
 
 
 ## Table of Contents
