@@ -1,7 +1,7 @@
 # KFaceRecognition
 
 
-:zap: A powerful & easy to use Face Recognition library for Android :zap:
+:zap: A powerful & easy to use Face Recognition library for Android  :zap:
 
 
 ## Table of Contents
