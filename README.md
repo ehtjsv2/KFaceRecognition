@@ -11,7 +11,8 @@
 1. [Documentation](#documentation)
 1. [Examples](#examples)
 1. [Tutorial](#tutorial)
-1. [Creators](#creators)
+2. [Question](#question)
+3. [Creators](#creators)
 
 
 ### Gradle Setup
@@ -35,7 +36,7 @@ See the [**Kdocs**]() for more advanced documentation.
 
 <br/>
 
-<h2 id="more-examples">Tutorial :movie_camera:</h2>
+<h2 id="tutorial">Tutorial :movie_camera:</h2>
 
 <br/>
 
@@ -53,3 +54,9 @@ See the [**Kdocs**]() for more advanced documentation.
 [how to adjust similarity threshold](http://youtube.com) 
 Default is 0.4
 <br/><br/>
+
+<br/>
+
+<h2 id="question">Question ❓:</h2>
+
+<br/>
