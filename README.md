@@ -37,6 +37,9 @@ def camerax_version = "1.0.0-rc03"
     implementation "androidx.camera:camera-view:1.0.0-alpha22"
     // If you want to additionally use the CameraX Extensions library
     implementation "androidx.camera:camera-extensions:1.0.0-alpha22"
+    // import module
+    implementation project(path: ':facerecognitionlibrary')
+    implementation project(path: ':sdk')
 ...    
     }
 ```
