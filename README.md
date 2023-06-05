@@ -15,11 +15,12 @@
 
 <h2 id="getting-started">Getting Started</h2>
 1. clone this project</br>
-2. open your android project and File->new->import module</br>
-3. select our cloned module(facerecognitionlibrary and sdk)</br>
-4. add below script to your bulid.gradke(project)</br>
+2.  open your android project and add below script to your bulid.gradke(project)</br>
 
 ```id com.chaquo.python' version '14.0.2' apply false ```</br>
+
+3. File->new->import module</br>
+4. select our cloned module(facerecognitionlibrary and sdk)</br>
 5. add below script to your bulid.gradle(module:app)</br>
 
 ```
