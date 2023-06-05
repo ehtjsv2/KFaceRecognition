@@ -1,5 +1,5 @@
 
-![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/Kfacerecog_logo.PNG.png)]
+![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/Kfacerecog_logo.PNG.png)
 
 ### :zap: A powerful & easy to use Face Recognition library for Android  :zap:</br></br>
  :exclamation: Get your unique facial features as vectors on Android!</br></br>
