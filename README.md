@@ -85,11 +85,11 @@ See the [**Kdocs**]() for more advanced documentation.
 
 **how to adjust count threshold**
 <br/>
-[![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/basicFeatureCapture.PNG)](https://youtu.be/mkE0Fz-7qr8)
+[![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/countTreshold.PNG)](https://youtu.be/mkE0Fz-7qr8)
 <br/><br/>
 **how to adjust similarity threshold(Default is 0.4)**
 <br/>
-[![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/basicFeatureCapture.PNG)](https://youtu.be/Jb9BSA6XXqU)
+[![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/similarity.PNG)](https://youtu.be/Jb9BSA6XXqU)
 <br/><br/>
 
 <br/>
