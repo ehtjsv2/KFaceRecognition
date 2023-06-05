@@ -53,7 +53,7 @@ See the [**Kdocs**]() for more advanced documentation.
 
 <h2 id="examples">Examples :eyes:</h2>
 
-[![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/example4.png)](https://youtube.com/shorts/Y1zkql_ywUI?feature=share)
+[![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/example4.PNG)](https://youtube.com/shorts/Y1zkql_ywUI?feature=share)
 
 <br/>
 
