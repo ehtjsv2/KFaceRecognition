@@ -14,7 +14,7 @@
 1. [Examples](#examples)
 1. [Tutorial](#tutorial)
 2. [Question](#question)
-3. [Creators](#creators)
+3. [Developer](#developers)
 
 
 <h2 id="getting-started">Getting Started</h2>
@@ -50,7 +50,7 @@ def camerax_version = "1.0.0-rc03"
 
 <br/>
 
-<h2 id="documentation">Documentation :notebook_with_decorative_cover:</h2>
+<h2 id="documentation">:notebook_with_decorative_cover: Documentation </h2>
 
 <!-- See the [**documentation**](https://weeklycoding.com/mpandroidchart/) for examples and general use of MPAndroidChart. -->
 
@@ -58,33 +58,57 @@ See the [**Kdocs**]() for more advanced documentation.
 
 <br/>
 
-<h2 id="examples">Examples :eyes:</h2>
+<h2 id="examples">:eyes: Examples </h2>
 
 [![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/example4.PNG)](https://youtube.com/shorts/Y1zkql_ywUI?feature=share)
 
 <br/>
 
-<h2 id="tutorial">Tutorial :movie_camera:</h2>
+<h2 id="tutorial">:movie_camera: Tutorial </h2>
 
 <br/>
 
 **Setting tutorial Video**
-<br/><br/>
+<br/>
 [![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/setting2.PNG)](https://youtu.be/wccWIQ_lX6k)
 <br/><br/>
 
-**Tutorial Videos**
+**how to apply basic features**([example_code](https://github.com/ehtjsv2/KFaceRecognition/blob/main/example_code/README.md))
+<br/>
+[![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/basicFeatureCapture.PNG)](https://youtu.be/amz2KdW6_4w)
 <br/><br/>
-[how to apply basic features](http://youtube.com)
+
+**how to apply basic funtion(illustrated by example)**
+<br/>
+[![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/exampleFuntion.PNG)](https://youtu.be/OZo75p8kEhc)
 <br/><br/>
-[how to adjust count threshold](http://youtube.com)
+
+**how to adjust count threshold**
+<br/>
+[![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/basicFeatureCapture.PNG)](https://youtu.be/mkE0Fz-7qr8)
 <br/><br/>
-[how to adjust similarity threshold](http://youtube.com) 
-Default is 0.4
+**how to adjust similarity threshold(Default is 0.4)**
+<br/>
+[![ScreenShot](https://github.com/ehtjsv2/KFaceRecognition/blob/main/image/basicFeatureCapture.PNG)](https://youtu.be/Jb9BSA6XXqU)
 <br/><br/>
 
 <br/>
 
-<h2 id="question">Question ❓:</h2>
+<h2 id="question">❓ Question </h2>
+
+
+* Q1. Why not use a distribution platform like jitpack?
+  * A1. It seemed that the chaquopy we were using was not compatible.
+* Q2. What happens when more than one person is on camera?
+  * A2. Only one vector is extracted. I hope to avoid more than two people (but no error will occur).
+
+<br/>
+<h2 id="developers">:family: developers</h2>
+
+* Developer1 : Doseon Kim(ehtjsv2@gmail.com)
+* Developer2 : 
+* Developer3 : 
+* Developer4 : 
+
 
 <br/>
