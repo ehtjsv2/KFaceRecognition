@@ -106,7 +106,7 @@ See the [**Kdocs**]() for more advanced documentation.
 <h2 id="developers">:family: developers</h2>
 
 * Developer1 : Doseon Kim(ehtjsv2@gmail.com)
-* Developer2 : 
+* Developer2 : Dohun Lee(dleh1541@naver.com)
 * Developer3 : 
 * Developer4 : 
 
