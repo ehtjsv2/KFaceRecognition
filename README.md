@@ -54,7 +54,7 @@ def camerax_version = "1.0.0-rc03"
 
 <!-- See the [**documentation**](https://weeklycoding.com/mpandroidchart/) for examples and general use of MPAndroidChart. -->
 
-See the [**Kdocs**]() for more advanced documentation.
+See the [**Kdocs**](https://dleh1541.github.io/KDocDeployTest/) for more advanced documentation.
 
 <br/>
 
