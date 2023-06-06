@@ -107,7 +107,7 @@ See the [**Kdocs**](https://dleh1541.github.io/KDocDeployTest/) for more advance
 
 * Developer1 : Doseon Kim(ehtjsv2@gmail.com)
 * Developer2 : Dohun Lee(dleh1541@naver.com)
-* Developer3 : 
+* Developer3 : Donghyeon Kim(kpkdh7@naver.com)
 * Developer4 : 
 
 
