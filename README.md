@@ -101,14 +101,16 @@ See the [**Kdocs**](https://dleh1541.github.io/KDocDeployTest/) for more advance
   * A1. It seemed that the chaquopy we were using was not compatible.
 * Q2. What happens when more than one person is on camera?
   * A2. Only one vector is extracted. I hope to avoid more than two people (but no error will occur).
-
+* Q3. How is KFaceRecognition different than other face recognition libraries? 
+  * A3. KFaceRecognition is especially appropriate for unexperienced developers. Even if you are not an AI expert you can add face recognition feature on your app by simply adding KFaceRecognition library. 
+  
 <br/>
 <h2 id="developers">:family: developers</h2>
 
 * Developer1 : Doseon Kim(ehtjsv2@gmail.com)
 * Developer2 : Dohun Lee(dleh1541@naver.com)
 * Developer3 : Donghyeon Kim(kpkdh7@naver.com)
-* Developer4 : 
+* Developer4 : Woojin Yang(woojinny319@gmail.com)
 
 
 <br/>
